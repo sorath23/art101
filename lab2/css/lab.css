@@ -1,3 +1,15 @@
-p {
-  color: black;
+h1 {
+  color: blue;
 }
+
+p#ellery {
+    color: #336699;
+    font-weight: bold;
+    margin-right: 100px
+}
+
+p#anika {
+  color: blue;
+}
+
+  color: blue;
